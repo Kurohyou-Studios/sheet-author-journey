@@ -13,7 +13,7 @@
 <img src='https://raw.githubusercontent.com/Kurohyou-Studios/k-scaffold/main/K-200.png' align="center">
 </div>
 <div align="center">
-<h3 align="center">K-Scaffold</h3>
+<h3 align="center">A Sheet Author's Journey Demo Code</h3>
 <p align="center">
 
 Demonstration files for the K-scaffold tutorial series "A Sheet Author's Journey" on Youtube.
